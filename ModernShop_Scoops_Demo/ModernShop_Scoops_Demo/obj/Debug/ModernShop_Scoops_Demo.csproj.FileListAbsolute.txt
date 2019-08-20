@@ -1,0 +1,12 @@
+C:\Users\Jack of Dunces\Source\Repos\ModernShop_Scoops_Demo\ModernShop_Scoops_Demo\bin\Debug\ModernShop_Scoops_Demo.exe.config
+C:\Users\Jack of Dunces\Source\Repos\ModernShop_Scoops_Demo\ModernShop_Scoops_Demo\bin\Debug\ModernShop_Scoops_Demo.exe
+C:\Users\Jack of Dunces\Source\Repos\ModernShop_Scoops_Demo\ModernShop_Scoops_Demo\bin\Debug\ModernShop_Scoops_Demo.pdb
+C:\Users\Jack of Dunces\Source\Repos\ModernShop_Scoops_Demo\ModernShop_Scoops_Demo\obj\Debug\ModernShop_Scoops_Demo.csprojResolveAssemblyReference.cache
+C:\Users\Jack of Dunces\Source\Repos\ModernShop_Scoops_Demo\ModernShop_Scoops_Demo\obj\Debug\ModernShop_Scoops_Demo.Form1.resources
+C:\Users\Jack of Dunces\Source\Repos\ModernShop_Scoops_Demo\ModernShop_Scoops_Demo\obj\Debug\ModernShop_Scoops_Demo.Properties.Resources.resources
+C:\Users\Jack of Dunces\Source\Repos\ModernShop_Scoops_Demo\ModernShop_Scoops_Demo\obj\Debug\ModernShop_Scoops_Demo.csproj.GenerateResource.Cache
+C:\Users\Jack of Dunces\Source\Repos\ModernShop_Scoops_Demo\ModernShop_Scoops_Demo\obj\Debug\ModernShop_Scoops_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Jack of Dunces\Source\Repos\ModernShop_Scoops_Demo\ModernShop_Scoops_Demo\obj\Debug\ModernShop_Scoops_Demo.exe
+C:\Users\Jack of Dunces\Source\Repos\ModernShop_Scoops_Demo\ModernShop_Scoops_Demo\obj\Debug\ModernShop_Scoops_Demo.pdb
+C:\Users\Jack of Dunces\Source\Repos\ModernShop_Scoops_Demo\ModernShop_Scoops_Demo\obj\Debug\ModernShop_Scoops_Demo.FirstCustomControl.resources
+C:\Users\Jack of Dunces\Source\Repos\ModernShop_Scoops_Demo\ModernShop_Scoops_Demo\obj\Debug\ModernShop_Scoops_Demo.MySecondCustomControl.resources
